@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SupriyaKaity/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SupriyaKaity/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SupriyaKaity/LeetCode/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/SupriyaKaity/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SupriyaKaity/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SupriyaKaity/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SupriyaKaity/LeetCode/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/SupriyaKaity/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SupriyaKaity/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SupriyaKaity/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SupriyaKaity/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/SupriyaKaity/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/SupriyaKaity/LeetCode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
